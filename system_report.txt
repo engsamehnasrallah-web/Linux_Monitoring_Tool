@@ -1,0 +1,13 @@
+Linux Monitoring Tool Report
+==============================
+Hostname: Sameh
+IP Address: 169.254.83.107
+Operating System: Windows 11
+Architecture: AMD64
+Physical Cores: 16
+Logical Cores: 24
+CPU Usage: 6.8%
+Memory Usage: 88.7%
+Total RAM: 15.71 GB
+Used RAM: 13.95 GB
+Disk Usage: 62.6%
